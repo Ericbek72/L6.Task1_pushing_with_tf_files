@@ -1,4 +1,4 @@
-name: Provision ECR
+name: Provision to ECR
 
 on:
   push:

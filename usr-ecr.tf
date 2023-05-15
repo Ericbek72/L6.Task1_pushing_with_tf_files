@@ -1,4 +1,4 @@
-provider "aws" {
+/*provider "aws" {
   region = "us-east-1"
 }
 
@@ -8,7 +8,7 @@ resource "aws_ecr_repository" "ecr_repo_incl_tf" {
   image_scanning_configuration {
     scan_on_push = true
   }
-}
+}*/
 
 #resource "aws_iam_user" "githubactions" {
 #  name = "githubactions"

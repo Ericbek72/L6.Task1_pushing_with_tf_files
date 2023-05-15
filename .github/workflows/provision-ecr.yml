@@ -1,4 +1,4 @@
-name: Provision to ECR
+name: Provision ECR (WITHOUT running ecr.tf)
 
 on:
   push:
